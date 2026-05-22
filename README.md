@@ -99,18 +99,18 @@ Gelişmiş kuyumculuk işletmeleri için tasarlanmış, çoklu şirket ve sını
 
 ---
 
-## 📊 Geliştirici Aktiviteleri & Kodlama İstatistikleri
+## 🛠️ Teknik Başarı Metrikleri & Kalite Standartları
+
+*Geliştirip başarıyla yayına aldığım tüm projelerde, harici kütüphanelerin ötesinde kendi üretim standartlarımı ve performans bütçelerimi (performance budget) esas alırım:*
+
+- **⚡ Yüksek Performans & Akıcılık:** Mobil oyun mimarilerimde ve kullanıcı arayüzlerimde render optimizasyonlarını merkeze alarak **60 FPS / 120 FPS** stabil akıcılık standardı sağlıyorum.
+- **🛡️ Güvenli & Ölçeklenebilir Backend:** Tasarladığım kurumsal B2B servislerinde, veri tabanı indekslemeleri ve **Redis caching** stratejileri sayesinde **<50ms** API uç noktası (endpoint) yanıt süreleri elde ediyorum.
+- **📐 Milimetrik Endüstriyel Tasarım:** Hardware projelerimde (Project ORION), Blender üzerinde **0.01mm hassasiyetle** çalışarak prototip üretim süreçlerinde sıfır hata payı hedefliyorum.
+- **🧹 Temiz Kod & Katı Standartlar:** Geliştirme süreçlerinde katı linter (`analysis_options.yaml`) kuralları uygular; teknik borçlanmayı (technical debt) önlemek adına sıfır hata ve sıfır uyarı (warning) ile derleme yaparım.
+- **⛓️ Profesyonel Git İş Akışı:** Sürüm yönetimini `Feature-Branch` modeliyle yürütür, ekiplerle tam uyumlu ve izlenebilir commit geçmişleri (*Conventional Commits*) oluşturmaya özen gösteririm.
+
+---
 
 <div align="center">
-
-<a href="https://github.com/KeremYukselll">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeremYukselll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" height="175px" />
-</a>
-<a href="https://github.com/KeremYukselll">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremYukselll&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&title_color=38bdf8" alt="Top Languages" height="175px" />
-</a>
-
-<br><br>
-<i>"Teknoloji, oyun dünyasının hayal gücüyle birleştiğinde bir ürüne dönüşür."</i>
-
+  <i>"En iyi istatistik, üretim (production) ortamında kararlı ve sıfır hata ile çalışan kodlardır."</i>
 </div>

@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Kerem Yüksel!
+# 👋 Selam, Ben Kerem Yüksel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+&amp;+Dart+Developer;UAV+Autonomous+Systems+Enthusiast;Indie+Game+Developer;Mobile+Product+Engineer" alt="Typing SVG" />
+<!-- Pro Seviye Dinamik Animasyon (Bütün yetkinliklerini kapsar) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+System+Architect;Flutter+%26+Dart+Mobile+Engineer;Multi-Agent+AI+Orchestrator+(CrewAI%2C+Dify);3D+Hardware+%26+Circuit+Modeler;Python+%26+React.js+Developer" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kerem-y%C3%BCksel-b112a2365/">
+  <a href="https://www.linkedin.com/in/keremyukselll/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/keremyukseel_/">
@@ -13,59 +14,78 @@
   </a>
 </p>
 
----
-
 </div>
 
-## 💫 Hakkımda
+---
 
-Mobil uygulama ekosisteminde kullanıcı odaklı, yüksek performanslı ve ölçeklenebilir çözümler tasarlıyor ve yayınlıyorum. Yazılım geliştirme tutkumu, **İnsansız Hava Araçları (İHA)** otonom sistemleri ve yer kontrol istasyonu (GCS) mimarilerine olan ilgimle birleştirerek hem gömülü mantık hem de üst düzey kullanıcı deneyimi sunan projeler geliştiriyorum.
+## 🚀 Mühendislik Vizyonum ve Hakkımda
 
-- 🚀 Şu anda **Flutter & Flame Engine** kullanarak gelişmiş oyun mekanikleri ve mobil mimariler üzerine çalışıyorum.
-- 🛸 **İHA/UAV** teknolojilerinde otonom uçuş algoritmaları, telemetri veri takipleri ve C++/Python entegrasyonlarına ilgi duyuyorum.
-- 📐 Temiz kod yazımına (**Clean Code**), durum yönetimine (**State Management - Provider/BLoC**) ve modüler mimarilere önem veriyorum.
-- 🌱 Sürekli öğrenme felsefesiyle, her gün GitHub grafiklerimi yeşillendirecek yeni yapılar inşa ediyorum.
+Teknolojiyi sadece arayüz geliştirmekten ibaret görmüyor; yazılımı uçtan uca bir mimari, donanımı ise bu mimarinin temeli olarak ele alıyorum. Kullanıcı odaklı mobil uygulamalardan, karmaşık **Çoklu Ajan (Multi-Agent) Yapay Zeka** sistemlerine ve milimetrik **3D Donanım Modellemeye** kadar geniş bir yelpazede ürün geliştiriyorum.
+
+🔭 **Şu anki Odak Noktalarım:**
+- Otonom yazılım geliştirme iş akışları için LLM tabanlı **Multi-Agent** mimarileri (Kimi, GLM, MiniMax, CrewAI, Dify) inşa etmek.
+- **Flutter & Dart** ile yüksek performanslı, state-management (Provider/BLoC) odaklı mobil oyunlar ve utility (araç) uygulamaları kurgulamak.
+- Matematiksel algoritmalar, büyük asal sayı hesaplamaları (Mersenne/Lucas-Lehmer) ve veri yapıları üzerinde Python tabanlı optimizasyonlar geliştirmek.
 
 ---
 
-## 🏆 Öne Çıkan Projem: Nebula Match
+## 💻 Teknoloji Ekosistemim
 
-**Nebula Match**, zarif görsel kimliği, tatmin edici oynanış döngülerini ve Firebase tabanlı bulut altyapısını bir araya getiren premium bir mobil bulmaca oyunudur. Tamamen production-minded (üretime hazır) bir mimariyle geliştirilmiştir.
-
-- **Teknoloji Yığını:** Flutter, Dart, Flame Engine, Provider, Firebase Cloud Functions, Firestore, Hive.
-- **Öne Çıkan Mühendislik:** Durum makineleri (State machinery), özel fizik entegrasyonları ve optimize edilmiş veri tabanı yönetimi.
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.yuksgames.nebulamatch" target="_blank">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200"/>
-  </a>
+<details>
+  <summary><b>📱 Mobil & Frontend (Tıkla ve İncele)</b></summary>
   <br>
-  <a href="https://github.com/KeremYukselll/NebulaMatch">🛠️ Proje Reposunu İncele</a>
-</div>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=Dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</details>
+
+<details>
+  <summary><b>🤖 Backend, AI & Sistem Geliştirme</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/AI_Orchestration-CrewAI_%7C_Dify-8A2BE2?style=flat-square" alt="AI"/>
+</details>
+
+<details>
+  <summary><b>📐 3D Tasarım & Donanım Modelleme</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Hardware-Circuit_Design-4CAF50?style=flat-square" alt="Hardware"/>
+</details>
 
 ---
 
-## 🛠️ Teknolojik Yetkinliklerim
+## 🛠️ Öne Çıkan Projelerim ve Portfolyom
 
-### 📱 Mobil & Oyun Geliştirme
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=Dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+> Kod güvenliği ve ticari gizlilik politikalarım gereği, bazı projelerimin çekirdek mimarisi (core logic) Private depolarda tutulmaktadır.
 
-### 🛸 Gömülü Sistemler & Backend / Veri
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+### 🎮 Oyun Geliştirme Ekolü
+- **Nebula Match:** Firebase entegreli, özel fizik motoru barındıran, modüler state-machine yapısına sahip premium bulmaca oyunu. *(Play Store'da Aktif)*
+- **Flow & Farm:** Çiftlik yönetimi mekaniklerini boru/yol bağlama bulmacalarıyla (pipe-connection) harmanlayan, Flutter tabanlı hibrit bir mobil oyun konsepti.
+
+### 📱 Utility & Android Uygulamaları
+- **BillGuard (Bill & Subscription Tracker):** Android platformunda kullanıcıların fatura ve yinelenen aboneliklerini milisaniyelik gecikme olmaksızın takip edebildiği, temiz mimariye (Clean Architecture) sahip Flutter finans asistanı.
+
+### ⚙️ Donanım & Sistem Ar-Ge
+- **Project ORION:** Blender üzerinde yüksek hassasiyetle (milimetrik) modellenmiş, karmaşık donanım devrelerini ve komponentlerini içeren teknik 3D modelleme/simülasyon projesi.
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 Geliştirici Aktivitelerim
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KeremYukselll&show_icons=true&theme=tokyonight&count_private=true" alt="Kerem's GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremYukselll&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" height="180px" />
+<a href="https://github.com/KeremYukselll">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeremYukselll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" height="180px" />
+</a>
+<a href="https://github.com/KeremYukselll">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremYukselll&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&title_color=38bdf8" alt="Top Languages" height="180px" />
+</a>
+
+<br><br>
+<i>"En iyi kod, yazılmadan önce mimarisi zihinde derlenmiş koddur."</i>
 
 </div>

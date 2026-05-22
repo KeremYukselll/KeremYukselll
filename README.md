@@ -3,7 +3,7 @@
 # 👋 Selam, Ben Kerem Yüksel
 
 <!-- Ultra-Pro Dinamik Animasyon (SaaS ve Oyun Mimarisini Vurgular) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Full-Stack+Mobile+%26+SaaS+Architect;Indie+Game+Developer+%26+Engine+Enthusiast;Flutter+(iOS%2FWin%2FAndroid)+%26+Flame+Engine;Node.js+%26+TypeScript+Backend+Engineer;Multi-Agent+AI+Orchestrator+(CrewAI%2C+Dify)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Full-Stack+Mobile+%26+SaaS+Architect;Game+Developer+%26+Engine+Enthusiast;Flutter+(iOS%2FWin%2FAndroid)+%26+Flame+Engine;Node.js+%26+TypeScript+Backend+Engineer;Multi-Agent+AI+Orchestrator+(CrewAI%2C+Dify)" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kerem-y%C3%BCksel-b112a2365/" target="_blank">

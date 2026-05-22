@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=1000&lines=⚡+Production-Grade+Software+Engineer;🎮+Flutter+%2B+Flame+Engine+Developer;🧠+Realtime+Backend+Architect;🚀+Scalable+SaaS+Systems;🤖+AI+Orchestration+Engineer;⚙️+Performance+First+Mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=1000&lines=Production-Grade+Software+Engineer;Flutter+%2B+Flame+Engine+Developer;Realtime+Backend+Architect;Scalable+SaaS+Systems;AI+Orchestration+Engineer;Performance+First+Mindset" />
 
 <br><br>
 
@@ -241,11 +241,19 @@ Flutter • Flame Engine • Firebase • Firestore • Hive
 
 <td width="35%">
 
-<img src="https://play-lh.googleusercontent.com/25Blg-KA3_o5bdjoEx6U5UupixOJpxRWB7Yi1LM0FDR7woIXntp9w5TO9NKOx4PwQiRc6Xytl_y1o97YBgoGZA=w240-h480-rw" width="70%" />
+<div align="center">
+
+<img src="https://images.weserv.nl/?url=play-lh.googleusercontent.com/25Blg-KA3_o5bdjoEx6U5UupixOJpxRWB7Yi1LM0FDR7woIXntp9w5TO9NKOx4PwQiRc6Xytl_y1o97YBgoGZA=w240-h480-rw&w=320&h=320&fit=cover&mask=circle" width="80%" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
 <br><br>
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+
+</div>
 
 </td>
 </tr>
@@ -283,6 +291,26 @@ systems:
 <tr>
 <td width="60%">
 
+### 🧩 Product Overview
+
+- Kuyumcular icin B2B SaaS, white-label yapida
+- $50 / sirket / ay, sinirsiz dukkan ve calisan
+- Flutter cross-platform (iOS, Android, Windows, macOS)
+- Linux backend uzerinde guvenli ve olceklenebilir altyapi
+
+### 🧠 Core Modules
+
+- Dashboard: anlik fiyat, satis ve stok metrikleri
+- Dukkan ve calisan yonetimi, granuler yetkilendirme
+- Stok, satis / alis islemleri, PDF makbuz
+- Raporlama (PDF/Excel), bildirimler, akilli hesap makinesi
+
+### 📡 Price Engine
+
+- GoldAPI / TCMB / BIST kaynaklarindan 20-60s arasi cekim
+- Redis cache + WebSocket push, fallback son gecerli fiyat
+- Audit log ile islem takibi
+
 ### ⚡ Enterprise Infrastructure
 
 - Multi-tenant architecture
@@ -310,7 +338,15 @@ D --> E[Dashboard Clients]
 
 <td width="40%">
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+
+<br><br>
+
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+
+</div>
 
 </td>
 </tr>
@@ -424,16 +460,6 @@ Experience:
   - Stable FPS
   - Fluid UX
 ```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-# 🎧 Coding Vibes
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 

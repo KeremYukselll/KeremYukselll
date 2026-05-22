@@ -243,15 +243,17 @@ Flutter • Flame Engine • Firebase • Firestore • Hive
 
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=play-lh.googleusercontent.com/25Blg-KA3_o5bdjoEx6U5UupixOJpxRWB7Yi1LM0FDR7woIXntp9w5TO9NKOx4PwQiRc6Xytl_y1o97YBgoGZA=w240-h480-rw&w=320&h=320&fit=cover&mask=circle" width="80%" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,linux&theme=dark" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+<img src="https://img.shields.io/badge/Engine-Flame-ff5c00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Storage-Hive-2f9d27?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Firestore-ffb300?style=for-the-badge" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+Realtime VFX • 60 FPS Rendering • Offline Mode
 
 </div>
 
@@ -340,11 +342,16 @@ D --> E[Dashboard Clients]
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,typescript,postgres,redis,docker,linux&theme=dark" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+<img src="https://img.shields.io/badge/API-REST%20%2B%20WebSocket-00c6ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Auth-JWT%20%2B%20RBAC-5a67d8?style=for-the-badge" />
+
+<br><br>
+
+Multi-Tenant • Realtime Sync • Audit Logs
 
 </div>
 

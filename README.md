@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,20:004e92,40:009ffd,60:00c6ff,80:0072ff,100:001f3f&text=KEREM%20YÜKSEL&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20•%20Game%20Developer%20•%20AI%20Engineer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,20:004e92,40:009ffd,60:00c6ff,80:0072ff,100:001f3f&text=KEREM%20YÜKSEL&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20•%20Game%20Developer&descAlignY=58&animation=fadeIn" />
 
 <br>
 
@@ -77,16 +77,16 @@ mindset:
 <tr>
 <td width="60%">
 
-Modern yazılımı yalnızca uygulama geliştirmek olarak görmüyorum.
+I do not see modern software as merely application development.
 
-Benim için mühendislik:
+To me, engineering means:
 
-- ⚡ Milisaniyelik veri akışları yönetmek
-- 🎮 Akıcı oyun deneyimleri tasarlamak
-- 🧠 Ölçeklenebilir backend mimarileri kurmak
-- 🚀 Gerçek zamanlı sistemler geliştirmek
-- 🛰️ Production-grade SaaS platformları inşa etmek
-- 🤖 Otonom AI agent sistemleri tasarlamak
+- ⚡ Managing millisecond-level data streams
+- 🎮 Designing fluid gaming experiences
+- 🧠 Building scalable backend architectures
+- 🚀 Developing real-time systems
+- 🛰️ Building production-grade SaaS platforms
+- 🤖 Designing autonomous AI agent systems
 
 </td>
 
@@ -214,7 +214,7 @@ Automation:
 <tr>
 <td width="65%">
 
-Premium uzay temalı puzzle oyunu. Kozmik atmosfer, akici animasyonlar ve patlama VFX odakli bir deneyim sunar.
+Premium space-themed puzzle game featuring a cosmic atmosphere, fluid animations, and explosive VFX.
 
 ### 📥 Play Store
 
@@ -229,7 +229,7 @@ Indirme: 1K+
 - Tamamen cevrimdisi oynanabilir (WiFi veya internet gerekmez)
 - HD galaksi gorunumleri, neon nebulalar ve rahatlatan patlama efektleri
 - Strateji + arcade modu bir arada
-- Yuzlerce seviye, haftalik guncellemelerle uzun omur
+- Hundreds of levels with regular updates for lasting replayability
 
 ### ⚙️ Technologies
 
@@ -263,26 +263,6 @@ Realtime VFX • 60 FPS Rendering • Offline Mode
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# 🚜 Flow & Farm
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3"/>
-
-```yaml
-genre:
-  - Hybrid Strategy
-  - Puzzle
-  - Resource Management
-
-systems:
-  - Graph Theory
-  - Grid Algorithms
-  - Smart Pathfinding
-  - Dynamic Economy
-  - Procedural Systems
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
 # 🏢 AurumOS SaaS Platform
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-9c3b4b9c-d7fa-4d65-b2c4-6ebadc177a64.gif"/>
@@ -295,23 +275,23 @@ systems:
 
 ### 🧩 Product Overview
 
-- Kuyumcular icin B2B SaaS, white-label yapida
-- $50 / sirket / ay, sinirsiz dukkan ve calisan
+- White-label B2B SaaS platform for jewelry retailers
+- $50 / company / month, with unlimited stores and employees
 - Flutter cross-platform (iOS, Android, Windows, macOS)
-- Linux backend uzerinde guvenli ve olceklenebilir altyapi
+- Secure and scalable infrastructure running on a Linux backend
 
 ### 🧠 Core Modules
 
-- Dashboard: anlik fiyat, satis ve stok metrikleri
-- Dukkan ve calisan yonetimi, granuler yetkilendirme
-- Stok, satis / alis islemleri, PDF makbuz
-- Raporlama (PDF/Excel), bildirimler, akilli hesap makinesi
+- Dashboard: live pricing, sales, and inventory metrics
+- Store and employee management with granular permissions
+- Inventory, sales and purchase operations, and PDF receipts
+- Reporting (PDF/Excel), notifications, and a smart calculator
 
 ### 📡 Price Engine
 
-- GoldAPI / TCMB / BIST kaynaklarindan 20-60s arasi cekim
-- Redis cache + WebSocket push, fallback son gecerli fiyat
-- Audit log ile islem takibi
+- Fetches data from GoldAPI / TCMB / BIST every 20-60 seconds
+- Redis cache + WebSocket push with the last valid price as fallback
+- Transaction tracking through audit logs
 
 ### ⚡ Enterprise Infrastructure
 
@@ -361,23 +341,6 @@ Multi-Tenant • Realtime Sync • Audit Logs
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# 🛰️ Project ORION
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4b6cb7,100:182848&height=3"/>
-
-```yaml
-focus:
-  - Hardware Simulation
-  - Industrial Design
-  - Technical Modeling
-  - Circuit Prototyping
-
-precision:
-  - 0.01mm accuracy
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
 # 📊 Engineering Metrics
 
 <div align="center">
@@ -395,79 +358,6 @@ precision:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeremYukselll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KeremYukselll&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<br><br>
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=KeremYukselll&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br><br>
-
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=KeremYukselll&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-# ⚡ Current Focus
-
-```txt
-⚡ Realtime SaaS Infrastructure
-⚡ AI Agent Systems
-⚡ Multiplayer Backend Architectures
-⚡ Advanced Mobile Rendering
-⚡ Distributed Systems
-⚡ Performance Optimization
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-# 🧬 Development Principles
-
-<div align="center">
-
-```txt
-Performance First
-Scalability Always
-Architecture Matters
-Clean Code Wins
-Production > Prototype
-```
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-# 🌐 System Design Mindset
-
-```yaml
-Performance:
-  - Low latency systems
-  - Smart caching
-  - Optimized rendering
-
-Scalability:
-  - Distributed architecture
-  - Horizontal scaling
-  - Queue systems
-
-Security:
-  - JWT Authentication
-  - RBAC Authorization
-  - Secure APIs
-
-Experience:
-  - Smooth UI
-  - Stable FPS
-  - Fluid UX
-```
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # 🚀 Future Roadmap
@@ -477,24 +367,6 @@ Experience:
 - 🛰️ Distributed cloud ecosystems
 - ⚡ Ultra-low latency platforms
 - 🎮 Premium cross-platform games
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-# ⚡ LIVE TERMINAL STATUS
-
-```bash
-> Initializing KeremYuksel.exe ...
-
-[██████████████████████████] System Loaded
-
-✔ Backend Architectures Ready
-✔ Realtime Systems Active
-✔ AI Agents Online
-✔ Mobile Rendering Stable
-✔ Production Systems Operational
-
-STATUS: ONLINE
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
